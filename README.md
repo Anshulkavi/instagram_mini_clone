@@ -88,7 +88,7 @@ The application supports user authentication, post creation, likes, comments, fo
 ### Backend Setup
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Anshulkavi/instagram_mini_clone.git
 cd backend
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
@@ -195,4 +195,5 @@ README.md
 
 ---
 MADE BY ANSHUL KAVISHWAR <>
+
 
