@@ -7,7 +7,36 @@ It demonstrates **backend API design**, **database relationships**, and **JWT-ba
 
 The application supports user authentication, post creation, likes, comments, follow/unfollow functionality, and a personalized feed based on followed users.
 
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Create Post</b><br/>
+      <img width="380" src="https://github.com/user-attachments/assets/0bdd1320-413e-457c-a3c4-dc3c87d11eba" />
+    </td>
+    <td align="center">
+      <b>Find People</b><br/>
+      <img width="380" src="https://github.com/user-attachments/assets/9403672f-d0c4-42fd-a6dd-3c614f0cca44" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Feed</b><br/>
+      <img width="380" src="https://github.com/user-attachments/assets/14468f84-97ff-48e3-a761-381dd2ec4dc4" />
+    </td>
+    <td align="center">
+      <b>Post Detail</b><br/>
+      <img width="380" src="https://github.com/user-attachments/assets/ea3064c7-9cf0-42a7-bf3b-b97675bd3545" />
+    </td>
+  </tr>
+</table>
+
+
 ---
+
 
 ## Features
 
@@ -166,3 +195,4 @@ README.md
 
 ---
 MADE BY ANSHUL KAVISHWAR <>
+
